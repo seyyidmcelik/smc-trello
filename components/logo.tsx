@@ -16,7 +16,7 @@ export function Logo() {
         <p
           className={cn("text-lg text-neutral-700 pb-1", headingFont.className)}
         >
-          Taskify
+          SMC
         </p>
       </div>
     </Link>
